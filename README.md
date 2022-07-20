@@ -5,7 +5,8 @@ YT video: https://youtu.be/oK2JOIbMpUo
 
     ·   SYSTEM
         
-        - Linux: copy the content of "packages_for_calculations_plots" in the terminal and press enter. Then write in the terminal python3 and drag "Calculations_&_Plots"
+        - Linux: copy the content of "packages_for_calculations_plots" in the terminal and press enter. 
+                 Then write in the terminal python3 and drag "Calculations_&_Plots"
         
         - WINDOWS: Compile "Calculations_&_Plots.py" with spyder or something like it.
     
