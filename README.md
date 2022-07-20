@@ -1,11 +1,14 @@
-# calplo
-
 RUDIMENTARY PROGRAM FOR FIRST CONSISTENCY CHECKING OF EQUATIONS 
 
 YT video: https://youtu.be/oK2JOIbMpUo
+*If copy, paste, and improvement, please share back
 
-If copy, paste, and improvement, please share back
-
+    ·   SYSTEM
+        
+        - Linux: copy the content of "packages_for_calculations_plots" in the terminal and press enter. Then write in the terminal python3 and drag "Calculations_&_Plots"
+        
+        - WINDOWS: Compile "Calculations_&_Plots.py" with spyder or something like it.
+    
     ·   OPERATIONS:
         
         - Addition:       +
