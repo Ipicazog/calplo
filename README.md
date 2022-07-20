@@ -1,7 +1,9 @@
 # calplo
 
 RUDIMENTARY PROGRAM FOR FIRST CONSISTENCY CHECKING OF EQUATIONS 
+
 YT video: https://youtu.be/oK2JOIbMpUo
+
 If copy, paste, and improvment, please share back
 
     ·   OPERATIONS:
